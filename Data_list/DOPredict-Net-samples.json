@@ -4818,6 +4818,1103 @@
     "Lenvatinib đơn trị"
   ],
   "drug_effectiveness_info": "Đột biến TERT promoter liên quan tiên lượng xấu và đề kháng iod phóng xạ — lenvatinib cải thiện đáng kể PFS. Theo dõi tăng huyết áp, tiêu chảy."
+},
+{
+  "id": 421,
+  "gene": "EGFR",
+  "mutation": "EGFR L858R",
+  "clinical_info": "Nam, 64 tuổi; ECOG 1; không hút thuốc; phát hiện khối u phổi phải, sinh thiết xác nhận ung thư phổi tuyến di căn xương; chức năng gan thận bảo tồn.",
+  "cancer_type": "Ung thư phổi tuyến (Adenocarcinoma)",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Osimertinib (EGFR TKI thế hệ 3, Tagrisso)",
+  "recommended_combination": [
+    "Osimertinib đơn trị liệu bước 1",
+    "Xem xét xạ trị giảm đau tổn thương xương"
+  ],
+  "drug_effectiveness_info": "Osimertinib cho thấy cải thiện rõ rệt PFS và OS ở bệnh nhân NSCLC mang EGFR L858R, với khả năng thấm tốt vào hệ thần kinh trung ương và độc tính thấp hơn so với TKI thế hệ cũ. Theo dõi kéo dài QT, tiêu chảy và viêm phổi kẽ."
+},
+{
+  "id": 422,
+  "gene": "ALK",
+  "mutation": "ALK fusion",
+  "clinical_info": "Nữ, 52 tuổi; ECOG 0; di căn não nhỏ không triệu chứng; chưa điều trị trước đó.",
+  "cancer_type": "Ung thư phổi không tế bào nhỏ (NSCLC)",
+  "stage": "Giai đoạn IVA",
+  "recommended_drug": "Alectinib (Alecensa)",
+  "recommended_combination": [
+    "Alectinib đơn trị liệu",
+    "Theo dõi MRI não định kỳ"
+  ],
+  "drug_effectiveness_info": "Alectinib là lựa chọn hàng đầu cho NSCLC ALK fusion với tỷ lệ kiểm soát di căn não cao và PFS vượt trội so với crizotinib. Tác dụng phụ thường nhẹ như mệt mỏi, tăng CK."
+},
+{
+  "id": 423,
+  "gene": "BRAF",
+  "mutation": "BRAF V600E",
+  "clinical_info": "Nam, 59 tuổi; tiền sử viêm gan B; HCC tiến triển không còn chỉ định phẫu thuật.",
+  "cancer_type": "Ung thư biểu mô tế bào gan (HCC)",
+  "stage": "Giai đoạn IIIB",
+  "recommended_drug": "Dabrafenib + Trametinib",
+  "recommended_combination": [
+    "Dabrafenib (BRAF inhibitor)",
+    "Trametinib (MEK inhibitor)"
+  ],
+  "drug_effectiveness_info": "Phối hợp BRAF/MEK inhibitor cho thấy hiệu quả đáng kể ở HCC mang BRAF V600E hiếm gặp, giúp kiểm soát bệnh tốt hơn so với đơn trị liệu. Cần theo dõi sốt, phát ban, chức năng gan."
+},
+{
+  "id": 424,
+  "gene": "IDH1",
+  "mutation": "IDH1 R132H",
+  "clinical_info": "Nam, 41 tuổi; u não tiến triển chậm; đã phẫu thuật bán phần.",
+  "cancer_type": "Astrocytoma",
+  "stage": "Giai đoạn II",
+  "recommended_drug": "Ivosidenib",
+  "recommended_combination": [
+    "Ivosidenib đơn trị",
+    "Theo dõi MRI định kỳ"
+  ],
+  "drug_effectiveness_info": "Ivosidenib cho thấy khả năng kiểm soát tăng trưởng u ở glioma mang IDH1 R132H, giúp kéo dài thời gian ổn định bệnh với độc tính thấp."
+},
+{
+  "id": 425,
+  "gene": "KIT",
+  "mutation": "KIT exon 11 mutation",
+  "clinical_info": "Nữ, 56 tuổi; GIST dạ dày tái phát sau phẫu thuật.",
+  "cancer_type": "GIST (U mô đệm đường tiêu hóa)",
+  "stage": "Giai đoạn III",
+  "recommended_drug": "Imatinib (Gleevec)",
+  "recommended_combination": [
+    "Imatinib đơn trị kéo dài"
+  ],
+  "drug_effectiveness_info": "Imatinib là tiêu chuẩn vàng cho GIST KIT exon 11 với tỷ lệ đáp ứng cao và cải thiện sống còn. Theo dõi phù, thiếu máu, chức năng gan."
+},
+{
+  "id": 426,
+  "gene": "MYD88",
+  "mutation": "MYD88 L265P",
+  "clinical_info": "Nam, 67 tuổi; thiếu máu, tăng IgM; không triệu chứng thần kinh.",
+  "cancer_type": "Macroglobulinemia Waldenström",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Ibrutinib",
+  "recommended_combination": [
+    "Ibrutinib đơn trị",
+    "Có thể phối hợp Rituximab"
+  ],
+  "drug_effectiveness_info": "MYD88 L265P dự báo đáp ứng cao với BTK inhibitor; ibrutinib cải thiện nhanh triệu chứng và giảm IgM. Theo dõi rung nhĩ, chảy máu."
+},
+{
+  "id": 427,
+  "gene": "FLT3",
+  "mutation": "FLT3-ITD",
+  "clinical_info": "Nữ, 45 tuổi; AML mới chẩn đoán; nguy cơ cao.",
+  "cancer_type": "Bạch cầu cấp dòng tủy (AML)",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Midostaurin",
+  "recommended_combination": [
+    "Midostaurin + phác đồ 7+3",
+    "Xem xét ghép tế bào gốc"
+  ],
+  "drug_effectiveness_info": "Midostaurin cải thiện sống còn ở AML FLT3-ITD khi phối hợp hóa trị chuẩn. Theo dõi QT kéo dài, buồn nôn."
+},
+{
+  "id": 428,
+  "gene": "PD-L1",
+  "mutation": "PD-L1 amplification",
+  "clinical_info": "Nam, 63 tuổi; tiền sử hút thuốc; SCC phổi tiến triển.",
+  "cancer_type": "Ung thư phổi tế bào vảy (Squamous cell carcinoma)",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Pembrolizumab",
+  "recommended_combination": [
+    "Pembrolizumab đơn trị",
+    "Hoặc Pembrolizumab + hóa trị platinum"
+  ],
+  "drug_effectiveness_info": "PD-L1 amplification liên quan đáp ứng tốt với liệu pháp miễn dịch; pembrolizumab cải thiện OS rõ rệt. Theo dõi viêm phổi, viêm đại tràng miễn dịch."
+},
+{
+  "id": 429,
+  "gene": "RET",
+  "mutation": "RET fusion",
+  "clinical_info": "Nữ, 49 tuổi; NSCLC tiến triển; không có EGFR/ALK.",
+  "cancer_type": "Ung thư phổi không tế bào nhỏ (NSCLC)",
+  "stage": "Giai đoạn IVB",
+  "recommended_drug": "Selpercatinib",
+  "recommended_combination": [
+    "Selpercatinib đơn trị"
+  ],
+  "drug_effectiveness_info": "Selpercatinib cho thấy tỷ lệ đáp ứng cao và dung nạp tốt ở bệnh nhân RET fusion, kể cả di căn não."
+},
+{
+  "id": 430,
+  "gene": "CTNNB1",
+  "mutation": "CTNNB1 S45P",
+  "clinical_info": "Nam, 55 tuổi; khối u gan lớn; không xơ gan nặng.",
+  "cancer_type": "Ung thư biểu mô tế bào gan (HCC)",
+  "stage": "Giai đoạn IIIA",
+  "recommended_drug": "Atezolizumab + Bevacizumab",
+  "recommended_combination": [
+    "Atezolizumab",
+    "Bevacizumab"
+  ],
+  "drug_effectiveness_info": "Phác đồ miễn dịch kết hợp kháng VEGF là tiêu chuẩn đầu tay cho HCC tiến triển, giúp cải thiện OS và PFS so với sorafenib. Theo dõi xuất huyết tiêu hóa."
+},
+{
+  "id": 431,
+  "gene": "KRAS",
+  "mutation": "KRAS G12C",
+  "clinical_info": "Nam, 66 tuổi; ECOG 1; tiền sử hút thuốc; NSCLC tiến triển sau hóa trị platinum.",
+  "cancer_type": "Ung thư phổi tuyến (Adenocarcinoma)",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Sotorasib (Lumakras)",
+  "recommended_combination": [
+    "Sotorasib đơn trị",
+    "Xem xét phối hợp thử nghiệm với thuốc ức chế SHP2 nếu kháng thuốc"
+  ],
+  "drug_effectiveness_info": "Sotorasib là thuốc đích đầu tiên cho KRAS G12C, cho tỷ lệ đáp ứng có ý nghĩa ở bệnh nhân đã điều trị trước. Theo dõi độc tính gan, tiêu chảy và buồn nôn."
+},
+{
+  "id": 432,
+  "gene": "HER2",
+  "mutation": "ERBB2 amplification",
+  "clinical_info": "Nữ, 54 tuổi; ung thư vú tái phát di căn gan; đã điều trị trastuzumab trước đó.",
+  "cancer_type": "Ung thư vú thể HER2 dương",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Trastuzumab deruxtecan (Enhertu)",
+  "recommended_combination": [
+    "Trastuzumab deruxtecan đơn trị"
+  ],
+  "drug_effectiveness_info": "ADC thế hệ mới cho thấy hiệu quả vượt trội ở bệnh nhân HER2 dương đã kháng trastuzumab, cải thiện PFS và OS. Theo dõi viêm phổi kẽ và giảm bạch cầu."
+},
+{
+  "id": 433,
+  "gene": "BRCA2",
+  "mutation": "BRCA2 truncation",
+  "clinical_info": "Nam, 61 tuổi; ung thư tuyến tiền liệt di căn xương; kháng thiến.",
+  "cancer_type": "Ung thư tuyến tiền liệt",
+  "stage": "Giai đoạn IVB",
+  "recommended_drug": "Olaparib (Lynparza)",
+  "recommended_combination": [
+    "Olaparib đơn trị",
+    "Tiếp tục liệu pháp khử androgen"
+  ],
+  "drug_effectiveness_info": "Bệnh nhân mCRPC mang đột biến BRCA2 hưởng lợi rõ rệt từ PARP inhibitor với cải thiện PFS so với liệu pháp nội tiết đơn thuần. Theo dõi thiếu máu và mệt mỏi."
+},
+{
+  "id": 434,
+  "gene": "IDH2",
+  "mutation": "IDH2 R140Q",
+  "clinical_info": "Nữ, 48 tuổi; AML tái phát sau hóa trị chuẩn.",
+  "cancer_type": "Bạch cầu cấp dòng tủy (AML)",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Enasidenib",
+  "recommended_combination": [
+    "Enasidenib đơn trị",
+    "Xem xét cầu nối ghép tế bào gốc"
+  ],
+  "drug_effectiveness_info": "Enasidenib cho phép biệt hóa tế bào ác tính, mang lại đáp ứng bền vững ở AML IDH2. Theo dõi hội chứng biệt hóa và tăng bilirubin."
+},
+{
+  "id": 435,
+  "gene": "SMARCB1",
+  "mutation": "SMARCB1 loss",
+  "clinical_info": "Trẻ nam, 3 tuổi; khối u thận tiến triển nhanh; sinh thiết xác nhận rhabdoid tumor.",
+  "cancer_type": "Rhabdoid tumor",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Tazemetostat",
+  "recommended_combination": [
+    "Tazemetostat",
+    "Hóa trị đa tác nhân theo phác đồ nhi khoa"
+  ],
+  "drug_effectiveness_info": "Mất SMARCB1 làm hoạt hóa EZH2; tazemetostat cho thấy hiệu quả sinh học rõ rệt và dung nạp tốt ở rhabdoid tumor."
+},
+{
+  "id": 436,
+  "gene": "NTRK3",
+  "mutation": "NTRK3 fusion",
+  "clinical_info": "Nữ, 37 tuổi; sarcoma mô mềm tiến triển; nhiều vị trí di căn.",
+  "cancer_type": "Sarcoma phần mềm khác",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Larotrectinib",
+  "recommended_combination": [
+    "Larotrectinib đơn trị"
+  ],
+  "drug_effectiveness_info": "Thuốc ức chế TRK cho tỷ lệ đáp ứng rất cao, không phụ thuộc mô bệnh học, với thời gian đáp ứng kéo dài. Theo dõi chóng mặt và tăng men gan."
+},
+{
+  "id": 437,
+  "gene": "PIK3CA",
+  "mutation": "PIK3CA H1047R",
+  "clinical_info": "Nữ, 58 tuổi; ung thư vú HR+ di căn xương; kháng aromatase inhibitor.",
+  "cancer_type": "Ung thư vú thể HR+",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Alpelisib",
+  "recommended_combination": [
+    "Alpelisib",
+    "Fulvestrant"
+  ],
+  "drug_effectiveness_info": "Alpelisib cải thiện PFS ở ung thư vú HR+ mang PIK3CA đột biến. Theo dõi tăng đường huyết, phát ban và tiêu chảy."
+},
+{
+  "id": 438,
+  "gene": "BCL2",
+  "mutation": "BCL2 translocation",
+  "clinical_info": "Nam, 62 tuổi; hạch to lan tỏa; sinh thiết xác nhận lymphoma nang.",
+  "cancer_type": "U lympho nang (Follicular lymphoma)",
+  "stage": "Giai đoạn III",
+  "recommended_drug": "Venetoclax",
+  "recommended_combination": [
+    "Venetoclax",
+    "Rituximab"
+  ],
+  "drug_effectiveness_info": "Venetoclax nhắm trúng đích BCL2, giúp tăng tỷ lệ đáp ứng sâu khi phối hợp kháng CD20. Theo dõi hội chứng ly giải u."
+,
+{
+  "id": 439,
+  "gene": "RET",
+  "mutation": "RET M918T",
+  "clinical_info": "Nữ, 45 tuổi; ung thư tuyến giáp thể tủy tái phát, tăng calcitonin nhanh.",
+  "cancer_type": "Ung thư tuyến giáp thể tủy (MTC)",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Selpercatinib",
+  "recommended_combination": [
+    "Selpercatinib đơn trị"
+  ],
+  "drug_effectiveness_info": "RET M918T là đột biến driver mạnh; selpercatinib cho đáp ứng cao và kiểm soát sinh hóa calcitonin hiệu quả. Theo dõi tăng huyết áp và QT kéo dài."
+},
+{
+  "id": 440,
+  "gene": "NF2",
+  "mutation": "NF2 truncation",
+  "clinical_info": "Nam, 53 tuổi; u màng não tái phát nhiều lần; không còn chỉ định phẫu thuật.",
+  "cancer_type": "U màng não",
+  "stage": "Giai đoạn IIIB",
+  "recommended_drug": "Everolimus",
+  "recommended_combination": [
+    "Everolimus",
+    "Xem xét xạ trị định vị"
+  ],
+  "drug_effectiveness_info": "Mất NF2 dẫn đến hoạt hóa mTOR; everolimus có thể giúp kiểm soát tăng sinh u và kéo dài thời gian ổn định bệnh. Theo dõi viêm miệng, rối loạn lipid."
+},
+{
+  "id": 441,
+  "gene": "MET",
+  "mutation": "MET exon 14 skipping",
+  "clinical_info": "Nam, 72 tuổi; ECOG 1; NSCLC tiến triển; có di căn não nhỏ không triệu chứng.",
+  "cancer_type": "Ung thư phổi không tế bào nhỏ (NSCLC)",
+  "stage": "Giai đoạn IVA",
+  "recommended_drug": "Capmatinib",
+  "recommended_combination": [
+    "Capmatinib đơn trị",
+    "Theo dõi hình ảnh não định kỳ"
+  ],
+  "drug_effectiveness_info": "Capmatinib cho tỷ lệ đáp ứng cao ở NSCLC có MET exon 14 skipping, bao gồm kiểm soát di căn não. Tác dụng phụ thường gặp: phù ngoại biên, buồn nôn; theo dõi chức năng gan."
+},
+{
+  "id": 442,
+  "gene": "FGFR2",
+  "mutation": "FGFR2 fusion",
+  "clinical_info": "Nữ, 58 tuổi; cholangiocarcinoma trong gan tái phát sau hóa trị gemcitabine–cisplatin.",
+  "cancer_type": "Ung thư đường mật trong gan",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Pemigatinib",
+  "recommended_combination": [
+    "Pemigatinib đơn trị"
+  ],
+  "drug_effectiveness_info": "Pemigatinib là FGFR inhibitor chọn lọc, cải thiện PFS và tỷ lệ đáp ứng ở bệnh nhân FGFR2 fusion. Theo dõi tăng phosphat máu, khô mắt."
+},
+{
+  "id": 443,
+  "gene": "MSI",
+  "mutation": "Microsatellite instability-high (MSI-H)",
+  "clinical_info": "Nam, 60 tuổi; ung thư đại tràng tái phát di căn gan; không còn chỉ định phẫu thuật.",
+  "cancer_type": "Ung thư đại tràng",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Pembrolizumab",
+  "recommended_combination": [
+    "Pembrolizumab đơn trị"
+  ],
+  "drug_effectiveness_info": "MSI-H dự báo đáp ứng rất tốt với ức chế PD-1; pembrolizumab cho đáp ứng bền vững và cải thiện sống còn so với hóa trị chuẩn. Theo dõi độc tính miễn dịch."
+},
+{
+  "id": 444,
+  "gene": "TERT",
+  "mutation": "TERT C228T",
+  "clinical_info": "Nam, 55 tuổi; khối u não ác tính tiến triển nhanh; đã xạ trị–temozolomide.",
+  "cancer_type": "U nguyên bào thần kinh đệm (GBM)",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Bevacizumab",
+  "recommended_combination": [
+    "Bevacizumab đơn trị",
+    "Điều trị hỗ trợ kiểm soát phù não"
+  ],
+  "drug_effectiveness_info": "Đột biến promoter TERT liên quan tiên lượng xấu; bevacizumab giúp kiểm soát triệu chứng và phù não, cải thiện chất lượng sống dù OS hạn chế."
+},
+{
+  "id": 445,
+  "gene": "SMO",
+  "mutation": "SHH activation",
+  "clinical_info": "Trẻ nam, 7 tuổi; medulloblastoma tái phát sau phẫu thuật và xạ trị.",
+  "cancer_type": "Medulloblastoma",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Vismodegib",
+  "recommended_combination": [
+    "Vismodegib",
+    "Hóa trị cứu vãn liều thấp"
+  ],
+  "drug_effectiveness_info": "Ở medulloblastoma nhóm SHH, ức chế SMO cho thấy hiệu quả sinh học và đáp ứng lâm sàng ở một số bệnh nhi. Theo dõi rối loạn phát triển xương."
+},
+{
+  "id": 446,
+  "gene": "KIT",
+  "mutation": "KIT D816V",
+  "clinical_info": "Nam, 50 tuổi; tăng sinh tủy hệ thống kèm triệu chứng toàn thân.",
+  "cancer_type": "Tăng sinh tủy (MPN)",
+  "stage": "Giai đoạn IIIB",
+  "recommended_drug": "Midostaurin",
+  "recommended_combination": [
+    "Midostaurin đơn trị",
+    "Điều trị hỗ trợ kiểm soát triệu chứng"
+  ],
+  "drug_effectiveness_info": "KIT D816V kháng imatinib; midostaurin giúp giảm gánh nặng bệnh và cải thiện triệu chứng ở bệnh nhân mastocytosis/MPN liên quan."
+},
+{
+  "id": 447,
+  "gene": "GNAQ",
+  "mutation": "GNAQ Q209L",
+  "clinical_info": "Nữ, 63 tuổi; u hắc tố mắt di căn gan.",
+  "cancer_type": "U hắc tố mắt (Uveal melanoma)",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Ipilimumab + Nivolumab",
+  "recommended_combination": [
+    "Ipilimumab",
+    "Nivolumab"
+  ],
+  "drug_effectiveness_info": "Uveal melanoma thường kháng miễn dịch đơn trị; phối hợp CTLA-4/PD-1 cho tỷ lệ đáp ứng cao hơn dù độc tính miễn dịch cần theo dõi chặt."
+},
+{
+  "id": 448,
+  "gene": "CDK4",
+  "mutation": "CDK4 amplification",
+  "clinical_info": "Nam, 57 tuổi; liposarcoma biệt hóa kém tái phát.",
+  "cancer_type": "Liposarcoma",
+  "stage": "Giai đoạn IIIC",
+  "recommended_drug": "Palbociclib",
+  "recommended_combination": [
+    "Palbociclib đơn trị"
+  ],
+  "drug_effectiveness_info": "CDK4 amplification là driver chính trong liposarcoma; ức chế CDK4/6 giúp kéo dài thời gian ổn định bệnh. Theo dõi giảm bạch cầu."
+},
+{
+  "id": 449,
+  "gene": "POLE",
+  "mutation": "POLE ultramutated mutation",
+  "clinical_info": "Nữ, 46 tuổi; ung thư nội mạc tử cung tái phát sau xạ trị.",
+  "cancer_type": "Ung thư nội mạc tử cung",
+  "stage": "Giai đoạn IIIB",
+  "recommended_drug": "Pembrolizumab",
+  "recommended_combination": [
+    "Pembrolizumab đơn trị"
+  ],
+  "drug_effectiveness_info": "POLE ultramutated tạo gánh nặng đột biến rất cao, dự báo đáp ứng mạnh với liệu pháp miễn dịch. Theo dõi độc tính miễn dịch đa cơ quan."
+},
+{
+  "id": 450,
+  "gene": "VHL",
+  "mutation": "VHL loss",
+  "clinical_info": "Nam, 62 tuổi; ung thư thận tế bào sáng di căn phổi.",
+  "cancer_type": "Ung thư thận tế bào sáng",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Pembrolizumab + Axitinib",
+  "recommended_combination": [
+    "Pembrolizumab",
+    "Axitinib"
+  ],
+  "drug_effectiveness_info": "Mất VHL dẫn đến hoạt hóa trục VEGF; phối hợp miễn dịch–TKI là tiêu chuẩn đầu tay, cải thiện rõ rệt OS và PFS so với TKI đơn thuần."
+},
+{
+  "id": 451,
+  "gene": "NTRK1",
+  "mutation": "NTRK1 fusion",
+  "clinical_info": "Nữ, 34 tuổi; ung thư tuyến giáp tiến triển, không đáp ứng i-ốt phóng xạ.",
+  "cancer_type": "Ung thư tuyến giáp thể nhú",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Larotrectinib",
+  "recommended_combination": [
+    "Larotrectinib đơn trị"
+  ],
+  "drug_effectiveness_info": "Thuốc ức chế TRK cho hiệu quả rất cao ở các khối u mang NTRK fusion, không phụ thuộc mô học. Đáp ứng thường nhanh và kéo dài; theo dõi chóng mặt và tăng men gan."
+},
+{
+  "id": 452,
+  "gene": "CSF1R",
+  "mutation": "CSF1R activating mutation",
+  "clinical_info": "Nam, 39 tuổi; tổn thương xương lan tỏa, sinh thiết xác nhận u mô đệm dạng tế bào khổng lồ.",
+  "cancer_type": "U mô mềm ác tính da",
+  "stage": "Giai đoạn IIIB",
+  "recommended_drug": "Pexidartinib",
+  "recommended_combination": [
+    "Pexidartinib đơn trị"
+  ],
+  "drug_effectiveness_info": "Ức chế CSF1R giúp giảm rõ rệt kích thước u và triệu chứng đau. Cần theo dõi độc tính gan nghiêm ngặt."
+},
+{
+  "id": 453,
+  "gene": "CCND1",
+  "mutation": "CCND1 amplification",
+  "clinical_info": "Nam, 68 tuổi; lymphoma tế bào áo tái phát sau hóa trị.",
+  "cancer_type": "U lympho tế bào áo (Mantle cell lymphoma)",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Ibrutinib",
+  "recommended_combination": [
+    "Ibrutinib đơn trị",
+    "Xem xét phối hợp Rituximab"
+  ],
+  "drug_effectiveness_info": "Mantle cell lymphoma phụ thuộc trục Cyclin D1–BTK; ibrutinib cho tỷ lệ đáp ứng cao và cải thiện sống còn ở bệnh tái phát."
+},
+{
+  "id": 454,
+  "gene": "AR",
+  "mutation": "AR amplification",
+  "clinical_info": "Nam, 70 tuổi; ung thư tuyến tiền liệt kháng thiến, PSA tăng nhanh.",
+  "cancer_type": "Ung thư tuyến tiền liệt",
+  "stage": "Giai đoạn IVB",
+  "recommended_drug": "Enzalutamide",
+  "recommended_combination": [
+    "Enzalutamide đơn trị",
+    "Tiếp tục liệu pháp khử androgen"
+  ],
+  "drug_effectiveness_info": "AR amplification dự báo phụ thuộc tín hiệu androgen; enzalutamide cải thiện PFS và kiểm soát PSA tốt ở mCRPC."
+},
+{
+  "id": 455,
+  "gene": "H3F3A",
+  "mutation": "H3F3A K27M",
+  "clinical_info": "Trẻ nữ, 9 tuổi; u thân não tiến triển nhanh, không còn chỉ định phẫu thuật.",
+  "cancer_type": "U thần kinh đệm độ cao nhi khoa",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Panobinostat",
+  "recommended_combination": [
+    "Panobinostat",
+    "Xạ trị giảm nhẹ"
+  ],
+  "drug_effectiveness_info": "Đột biến H3K27M gây tái lập trình biểu sinh; HDAC inhibitor cho thấy hoạt tính sinh học, dù tiên lượng chung còn hạn chế."
+},
+{
+  "id": 456,
+  "gene": "FGFR3",
+  "mutation": "FGFR3 S249C",
+  "clinical_info": "Nam, 61 tuổi; ung thư bàng quang tái phát sau cắt bàng quang.",
+  "cancer_type": "Ung thư bàng quang thể urothelial",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Erdafitinib",
+  "recommended_combination": [
+    "Erdafitinib đơn trị"
+  ],
+  "drug_effectiveness_info": "Erdafitinib cho đáp ứng rõ rệt ở ung thư bàng quang mang FGFR3 đột biến. Theo dõi phosphat máu và biến chứng mắt."
+},
+{
+  "id": 457,
+  "gene": "GNA11",
+  "mutation": "GNA11 Q209P",
+  "clinical_info": "Nam, 58 tuổi; u hắc tố mắt di căn gan tiến triển.",
+  "cancer_type": "U hắc tố mắt (Uveal melanoma)",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Tebentafusp",
+  "recommended_combination": [
+    "Tebentafusp đơn trị"
+  ],
+  "drug_effectiveness_info": "Ở bệnh nhân HLA-A*02:01, tebentafusp cải thiện OS rõ rệt trong uveal melanoma di căn. Theo dõi phản ứng giải phóng cytokine."
+},
+{
+  "id": 458,
+  "gene": "ATM",
+  "mutation": "ATM truncation",
+  "clinical_info": "Nữ, 65 tuổi; ung thư tụy tiến triển sau FOLFIRINOX.",
+  "cancer_type": "Ung thư tụy tuyến",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Olaparib",
+  "recommended_combination": [
+    "Olaparib đơn trị",
+    "Điều trị duy trì sau platinum"
+  ],
+  "drug_effectiveness_info": "Rối loạn sửa chữa DNA (ATM) có thể tạo nhạy cảm với PARP inhibitor; hiệu quả trung bình nhưng có lợi ở nhóm chọn lọc."
+},
+{
+  "id": 459,
+  "gene": "PD-L1",
+  "mutation": "PD-L1 amplification",
+  "clinical_info": "Nam, 64 tuổi; ung thư đầu cổ tiến triển, không phẫu thuật được.",
+  "cancer_type": "Ung thư hầu họng",
+  "stage": "Giai đoạn IVA",
+  "recommended_drug": "Nivolumab",
+  "recommended_combination": [
+    "Nivolumab đơn trị"
+  ],
+  "drug_effectiveness_info": "PD-L1 amplification liên quan đáp ứng tốt với ức chế PD-1; nivolumab cải thiện sống còn và chất lượng sống so với hóa trị cứu vãn."
+},
+{
+  "id": 460,
+  "gene": "SDHB",
+  "mutation": "SDHB loss",
+  "clinical_info": "Nữ, 42 tuổi; pheochromocytoma ác tính di căn xương.",
+  "cancer_type": "Pheochromocytoma ác tính",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Sunitinib",
+  "recommended_combination": [
+    "Sunitinib",
+    "Điều trị kiểm soát catecholamine"
+  ],
+  "drug_effectiveness_info": "Mất SDHB liên quan kiểu hình ác tính cao; TKI đa đích giúp kiểm soát bệnh và kéo dài ổn định. Theo dõi tăng huyết áp và độc tính tim mạch."
+},
+{
+  "id": 461,
+  "gene": "EGFR",
+  "mutation": "EGFR exon 20 insertion",
+  "clinical_info": "Nữ, 60 tuổi; ECOG 1; NSCLC tiến triển sau hóa trị platinum; không có đột biến EGFR cổ điển.",
+  "cancer_type": "Ung thư phổi tuyến (Adenocarcinoma)",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Amivantamab",
+  "recommended_combination": [
+    "Amivantamab đơn trị",
+    "Điều trị hỗ trợ kiểm soát phản ứng truyền"
+  ],
+  "drug_effectiveness_info": "EGFR exon 20 insertion kháng TKI thế hệ cũ; amivantamab (kháng thể bispecific EGFR/MET) cho tỷ lệ đáp ứng có ý nghĩa và kiểm soát bệnh bền vững. Theo dõi phản ứng truyền và phát ban."
+},
+{
+  "id": 462,
+  "gene": "JAK2",
+  "mutation": "JAK2 V617F",
+  "clinical_info": "Nam, 67 tuổi; lách to, thiếu máu, triệu chứng toàn thân.",
+  "cancer_type": "Tăng sinh tủy (MPN)",
+  "stage": "Giai đoạn III",
+  "recommended_drug": "Ruxolitinib",
+  "recommended_combination": [
+    "Ruxolitinib đơn trị"
+  ],
+  "drug_effectiveness_info": "Ruxolitinib ức chế JAK1/2 giúp giảm kích thước lách và cải thiện triệu chứng ở MPN mang JAK2 V617F; theo dõi thiếu máu và nhiễm trùng."
+},
+{
+  "id": 463,
+  "gene": "BRAF",
+  "mutation": "BRAF V600E",
+  "clinical_info": "Nam, 52 tuổi; melanoma di căn hạch và phổi; LDH tăng.",
+  "cancer_type": "Melanoma ác tính",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Dabrafenib + Trametinib",
+  "recommended_combination": [
+    "Dabrafenib",
+    "Trametinib"
+  ],
+  "drug_effectiveness_info": "Phối hợp BRAF/MEK inhibitor cho đáp ứng nhanh và cao ở melanoma BRAF V600E; cần theo dõi sốt, phát ban và chức năng tim."
+},
+{
+  "id": 464,
+  "gene": "NOTCH1",
+  "mutation": "NOTCH1 PEST domain mutation",
+  "clinical_info": "Nam, 58 tuổi; T-ALL tái phát sau điều trị chuẩn.",
+  "cancer_type": "U lympho nguyên bào lympho",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Gamma-secretase inhibitor (điều trị thử nghiệm)",
+  "recommended_combination": [
+    "Ức chế NOTCH (clinical trial)",
+    "Hóa trị cứu vãn"
+  ],
+  "drug_effectiveness_info": "Đột biến NOTCH1 hoạt hóa là driver chính trong T-ALL; ức chế NOTCH cho thấy hoạt tính sinh học trong thử nghiệm lâm sàng, cần theo dõi độc tính tiêu hóa."
+},
+{
+  "id": 465,
+  "gene": "PTCH1",
+  "mutation": "PTCH1 loss",
+  "clinical_info": "Nam, 49 tuổi; tổn thương da lan tỏa, tái phát nhiều lần.",
+  "cancer_type": "Ung thư da tế bào đáy (BCC)",
+  "stage": "Giai đoạn IIIB",
+  "recommended_drug": "Vismodegib",
+  "recommended_combination": [
+    "Vismodegib đơn trị"
+  ],
+  "drug_effectiveness_info": "Mất PTCH1 hoạt hóa đường Hedgehog; vismodegib giúp kiểm soát bệnh hiệu quả ở BCC tiến triển. Theo dõi chuột rút và rụng tóc."
+},
+{
+  "id": 466,
+  "gene": "PDGFRA",
+  "mutation": "PDGFRA D842V",
+  "clinical_info": "Nữ, 55 tuổi; GIST dạ dày tiến triển, kháng imatinib.",
+  "cancer_type": "GIST (U mô đệm đường tiêu hóa)",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Avapritinib",
+  "recommended_combination": [
+    "Avapritinib đơn trị"
+  ],
+  "drug_effectiveness_info": "PDGFRA D842V kháng các TKI thế hệ cũ; avapritinib cho tỷ lệ đáp ứng cao và bền vững. Theo dõi phù và rối loạn nhận thức."
+},
+{
+  "id": 467,
+  "gene": "EZH2",
+  "mutation": "EZH2 activating mutation",
+  "clinical_info": "Nam, 61 tuổi; lymphoma nang tái phát sau rituximab.",
+  "cancer_type": "U lympho nang (Follicular lymphoma)",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Tazemetostat",
+  "recommended_combination": [
+    "Tazemetostat đơn trị"
+  ],
+  "drug_effectiveness_info": "EZH2 đột biến làm phụ thuộc biểu sinh; tazemetostat cho đáp ứng tốt và độc tính thấp ở lymphoma nang."
+},
+{
+  "id": 468,
+  "gene": "HRAS",
+  "mutation": "HRAS G12V",
+  "clinical_info": "Nam, 63 tuổi; ung thư đầu cổ tái phát tại chỗ.",
+  "cancer_type": "Ung thư khoang miệng",
+  "stage": "Giai đoạn IIIC",
+  "recommended_drug": "Tipifarnib",
+  "recommended_combination": [
+    "Tipifarnib đơn trị"
+  ],
+  "drug_effectiveness_info": "HRAS G12V phụ thuộc farnesylation; tipifarnib cho đáp ứng có chọn lọc ở ung thư đầu cổ mang HRAS đột biến. Theo dõi thiếu máu và tiêu chảy."
+},
+{
+  "id": 469,
+  "gene": "SMARCA4",
+  "mutation": "SMARCA4 loss",
+  "clinical_info": "Nam, 45 tuổi; khối u trung thất tiến triển nhanh, kháng hóa trị.",
+  "cancer_type": "Sarcoma phần mềm khác",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Pembrolizumab",
+  "recommended_combination": [
+    "Pembrolizumab đơn trị",
+    "Điều trị hỗ trợ"
+  ],
+  "drug_effectiveness_info": "SMARCA4-deficient tumors có tính sinh miễn dịch cao; miễn dịch PD-1 cho thấy lợi ích ở nhóm chọn lọc dù bằng chứng còn hạn chế."
+},
+{
+  "id": 470,
+  "gene": "TERT",
+  "mutation": "TERT promoter hypermethylation",
+  "clinical_info": "Nữ, 59 tuổi; u màng não tiến triển chậm nhưng tái phát nhiều lần.",
+  "cancer_type": "U màng não",
+  "stage": "Giai đoạn IIIA",
+  "recommended_drug": "Bevacizumab",
+  "recommended_combination": [
+    "Bevacizumab đơn trị",
+    "Xạ trị định vị nếu phù hợp"
+  ],
+  "drug_effectiveness_info": "Hoạt hóa TERT liên quan tăng sinh mạch; bevacizumab giúp kiểm soát phù và triệu chứng, cải thiện chất lượng sống."
+},
+{
+  "id": 471,
+  "gene": "EWSR1",
+  "mutation": "EWSR1-FLI1 fusion",
+  "clinical_info": "Nam, 14 tuổi; đau xương đùi, khối u phát triển nhanh.",
+  "cancer_type": "Sarcoma Ewing",
+  "stage": "Giai đoạn IIIB",
+  "recommended_drug": "VAC/IE",
+  "recommended_combination": [
+    "Vincristine",
+    "Doxorubicin",
+    "Cyclophosphamide",
+    "Ifosfamide",
+    "Etoposide"
+  ],
+  "drug_effectiveness_info": "EWSR1-FLI1 là driver đặc hiệu của Ewing sarcoma; phác đồ VAC/IE chuẩn giúp tăng sống còn ở bệnh nhi và thanh thiếu niên, dù độc tính tủy cao."
+},
+{
+  "id": 472,
+  "gene": "ALK",
+  "mutation": "ALK F1174L",
+  "clinical_info": "Nữ, 3 tuổi; khối u thượng thận, di căn xương.",
+  "cancer_type": "Neuroblastoma",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Lorlatinib",
+  "recommended_combination": [
+    "Lorlatinib",
+    "Hóa trị đa thuốc nhi khoa"
+  ],
+  "drug_effectiveness_info": "ALK F1174L là đột biến hoạt hóa mạnh trong neuroblastoma nguy cơ cao; lorlatinib có hoạt tính vượt trội so với crizotinib ở đột biến này."
+},
+{
+  "id": 473,
+  "gene": "SMARCB1",
+  "mutation": "SMARCB1 loss",
+  "clinical_info": "Nam, 18 tháng tuổi; khối u thận ác tính, tiến triển nhanh.",
+  "cancer_type": "U thận rhabdoid",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Tazemetostat",
+  "recommended_combination": [
+    "Tazemetostat",
+    "Hóa trị cường độ cao"
+  ],
+  "drug_effectiveness_info": "Mất SMARCB1 gây lệ thuộc EZH2; tazemetostat cho thấy hoạt tính sinh học trong u rhabdoid, đặc biệt ở bệnh nhi."
+},
+{
+  "id": 474,
+  "gene": "H3F3A",
+  "mutation": "H3F3A K27M",
+  "clinical_info": "Nữ, 9 tuổi; rối loạn vận động, tổn thương thân não.",
+  "cancer_type": "Glioma lan tỏa đường giữa (DIPG)",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "ONC201",
+  "recommended_combination": [
+    "ONC201",
+    "Xạ trị giảm nhẹ"
+  ],
+  "drug_effectiveness_info": "H3K27M tái lập trình biểu sinh khối u; ONC201 cho thấy kéo dài sống còn ở một số bệnh nhi DIPG, dù chưa có liệu pháp chuẩn hiệu quả."
+},
+{
+  "id": 475,
+  "gene": "DICER1",
+  "mutation": "DICER1 truncation",
+  "clinical_info": "Nữ, 7 tuổi; khối u phổi dạng nang, tiền sử gia đình ung thư hiếm.",
+  "cancer_type": "Pleuropulmonary blastoma",
+  "stage": "Giai đoạn II",
+  "recommended_drug": "Hóa trị nhi khoa chuẩn",
+  "recommended_combination": [
+    "Ifosfamide",
+    "Vincristine",
+    "Dactinomycin"
+  ],
+  "drug_effectiveness_info": "DICER1 truncation gây hội chứng ung thư hiếm ở trẻ em; hóa trị kết hợp giúp giảm nguy cơ tiến triển và tái phát."
+},
+{
+  "id": 476,
+  "gene": "NTRK3",
+  "mutation": "ETV6-NTRK3 fusion",
+  "clinical_info": "Nam, 6 tháng tuổi; khối u mô mềm cổ, phát triển nhanh.",
+  "cancer_type": "Infantile fibrosarcoma",
+  "stage": "Giai đoạn IIIB",
+  "recommended_drug": "Larotrectinib",
+  "recommended_combination": [
+    "Larotrectinib đơn trị"
+  ],
+  "drug_effectiveness_info": "ETV6-NTRK3 là driver kinh điển; larotrectinib cho tỷ lệ đáp ứng rất cao và dung nạp tốt ở trẻ sơ sinh."
+},
+{
+  "id": 477,
+  "gene": "WT1",
+  "mutation": "WT1 loss",
+  "clinical_info": "Nữ, 4 tuổi; khối u thận, tăng huyết áp.",
+  "cancer_type": "U Wilms",
+  "stage": "Giai đoạn III",
+  "recommended_drug": "Phác đồ SIOP",
+  "recommended_combination": [
+    "Vincristine",
+    "Dactinomycin",
+    "Doxorubicin"
+  ],
+  "drug_effectiveness_info": "WT1 loss là nền tảng sinh học của u Wilms; phác đồ chuẩn SIOP cho tỷ lệ chữa khỏi cao ở bệnh nhi."
+},
+{
+  "id": 478,
+  "gene": "SUFU",
+  "mutation": "SUFU loss",
+  "clinical_info": "Nam, 2 tuổi; u não sau hố, thất điều.",
+  "cancer_type": "Medulloblastoma (SHH subtype)",
+  "stage": "Giai đoạn II",
+  "recommended_drug": "Xạ trị + Hóa trị nhi khoa",
+  "recommended_combination": [
+    "Xạ trị giảm liều",
+    "Cisplatin",
+    "Cyclophosphamide"
+  ],
+  "drug_effectiveness_info": "SUFU loss hoạt hóa SHH mạnh, thường kháng SMO inhibitors; điều trị chuẩn vẫn là xạ trị kết hợp hóa trị."
+},
+{
+  "id": 479,
+  "gene": "FOXL2",
+  "mutation": "FOXL2 C134W",
+  "clinical_info": "Nữ, 16 tuổi; khối u buồng trứng tiến triển chậm.",
+  "cancer_type": "U tế bào hạt buồng trứng",
+  "stage": "Giai đoạn II",
+  "recommended_drug": "Phẫu thuật + theo dõi",
+  "recommended_combination": [
+    "Phẫu thuật bảo tồn",
+    "Theo dõi nội tiết"
+  ],
+  "drug_effectiveness_info": "FOXL2 C134W gần như đặc hiệu cho u tế bào hạt; phẫu thuật triệt để mang lại tiên lượng rất tốt ở bệnh nhân trẻ."
+},
+{
+  "id": 480,
+  "gene": "RB1",
+  "mutation": "RB1 biallelic loss",
+  "clinical_info": "Nam, 1 tuổi; bạch đồng tử, tổn thương cả hai mắt.",
+  "cancer_type": "U nguyên bào võng mạc",
+  "stage": "Giai đoạn III",
+  "recommended_drug": "Hóa trị nội động mạch",
+  "recommended_combination": [
+    "Melphalan nội động mạch",
+    "Carboplatin"
+  ],
+  "drug_effectiveness_info": "RB1 mất hai alen là điều kiện bắt buộc hình thành retinoblastoma; hóa trị nội động mạch giúp bảo tồn nhãn cầu và giảm độc tính toàn thân."
+},
+{
+  "id": 481,
+  "gene": "ALK",
+  "mutation": "ALK R1275Q",
+  "clinical_info": "Nam, 5 tuổi; neuroblastoma nguy cơ cao, di căn tủy xương.",
+  "cancer_type": "Neuroblastoma",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Lorlatinib",
+  "recommended_combination": [
+    "Lorlatinib",
+    "Hóa trị đa thuốc nhi khoa"
+  ],
+  "drug_effectiveness_info": "ALK R1275Q là đột biến hoạt hóa thường gặp trong neuroblastoma; lorlatinib vượt trội hơn crizotinib về ức chế ALK và xâm nhập CNS, cải thiện đáp ứng ở bệnh nhi nguy cơ cao."
+},
+{
+  "id": 482,
+  "gene": "NTRK1",
+  "mutation": "NTRK1 fusion",
+  "clinical_info": "Nữ, 11 tháng tuổi; u mô mềm bẩm sinh vùng đùi.",
+  "cancer_type": "Infantile fibrosarcoma",
+  "stage": "Giai đoạn IIIB",
+  "recommended_drug": "Larotrectinib",
+  "recommended_combination": [
+    "Larotrectinib đơn trị"
+  ],
+  "drug_effectiveness_info": "NTRK fusion là driver sinh ung mạnh; larotrectinib cho tỷ lệ đáp ứng >90% ở u nhi khoa mang NTRK fusion, giúp tránh phẫu thuật phá hủy chức năng."
+},
+{
+  "id": 483,
+  "gene": "BRAF",
+  "mutation": "BRAF V600E",
+  "clinical_info": "Nam, 9 tuổi; động kinh kháng trị, tổn thương não bán cầu.",
+  "cancer_type": "Ganglioglioma",
+  "stage": "Giai đoạn II",
+  "recommended_drug": "Dabrafenib + Trametinib",
+  "recommended_combination": [
+    "Dabrafenib",
+    "Trametinib"
+  ],
+  "drug_effectiveness_info": "BRAF V600E là driver thường gặp ở u não trẻ em độ thấp; phối hợp BRAF/MEK inhibitor cho kiểm soát u và cải thiện triệu chứng thần kinh."
+},
+{
+  "id": 484,
+  "gene": "RET",
+  "mutation": "RET M918T",
+  "clinical_info": "Nữ, 12 tuổi; u tuyến giáp tiến triển nhanh, tiền sử gia đình MEN2B.",
+  "cancer_type": "Ung thư tuyến giáp thể tủy",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Selpercatinib",
+  "recommended_combination": [
+    "Selpercatinib đơn trị"
+  ],
+  "drug_effectiveness_info": "RET M918T là đột biến hoạt hóa mạnh trong MEN2B; selpercatinib cho đáp ứng cao và độc tính thấp ở cả người lớn và bệnh nhi."
+},
+{
+  "id": 485,
+  "gene": "KIT",
+  "mutation": "KIT D816V",
+  "clinical_info": "Nam, 8 tuổi; tổn thương da lan tỏa, thâm nhiễm tủy.",
+  "cancer_type": "Mastocytosis hệ thống",
+  "stage": "Giai đoạn III",
+  "recommended_drug": "Midostaurin",
+  "recommended_combination": [
+    "Midostaurin",
+    "Điều trị hỗ trợ kháng histamine"
+  ],
+  "drug_effectiveness_info": "KIT D816V kháng imatinib; midostaurin có hoạt tính ức chế KIT đột biến, giúp giảm gánh nặng tế bào mast và triệu chứng."
+},
+{
+  "id": 486,
+  "gene": "IDH1",
+  "mutation": "IDH1 R132H",
+  "clinical_info": "Nam, 15 tuổi; glioma độ thấp tiến triển chậm.",
+  "cancer_type": "Glioma độ thấp",
+  "stage": "Giai đoạn II",
+  "recommended_drug": "Ivosidenib",
+  "recommended_combination": [
+    "Ivosidenib đơn trị"
+  ],
+  "drug_effectiveness_info": "IDH1 R132H tạo oncometabolite 2-HG; ivosidenib làm chậm tiến triển u não có IDH1 đột biến, đặc biệt khi muốn trì hoãn xạ trị ở trẻ."
+},
+{
+  "id": 487,
+  "gene": "FGFR1",
+  "mutation": "FGFR1 activating mutation",
+  "clinical_info": "Nữ, 13 tuổi; u não thất bên hiếm, tăng áp lực nội sọ.",
+  "cancer_type": "Dysembryoplastic neuroepithelial tumor",
+  "stage": "Giai đoạn II",
+  "recommended_drug": "Erdafitinib",
+  "recommended_combination": [
+    "Erdafitinib (clinical trial)",
+    "Theo dõi thần kinh"
+  ],
+  "drug_effectiveness_info": "FGFR1 hoạt hóa là driver ở một số u não độ thấp; FGFR inhibitor cho thấy kiểm soát bệnh trong thử nghiệm nhi khoa."
+},
+{
+  "id": 488,
+  "gene": "TSC2",
+  "mutation": "TSC2 loss",
+  "clinical_info": "Nam, 6 tuổi; động kinh, u não dưới màng thất.",
+  "cancer_type": "SEGA (Subependymal Giant Cell Astrocytoma)",
+  "stage": "Giai đoạn I",
+  "recommended_drug": "Everolimus",
+  "recommended_combination": [
+    "Everolimus đơn trị"
+  ],
+  "drug_effectiveness_info": "Mất TSC2 hoạt hóa mTOR; everolimus là điều trị chuẩn, giúp thu nhỏ SEGA và kiểm soát động kinh."
+},
+{
+  "id": 489,
+  "gene": "CSF1R",
+  "mutation": "CSF1R rearrangement",
+  "clinical_info": "Nữ, 10 tuổi; u mô mềm quanh khớp, đau và sưng kéo dài.",
+  "cancer_type": "Tenosynovial giant cell tumor",
+  "stage": "Giai đoạn III",
+  "recommended_drug": "Pexidartinib",
+  "recommended_combination": [
+    "Pexidartinib đơn trị"
+  ],
+  "drug_effectiveness_info": "CSF1R phụ thuộc ligand do tái sắp xếp CSF1; pexidartinib làm giảm kích thước u và cải thiện chức năng vận động."
+},
+{
+  "id": 490,
+  "gene": "ROS1",
+  "mutation": "ROS1 fusion",
+  "clinical_info": "Nam, 16 tuổi; ung thư phổi hiếm ở trẻ vị thành niên.",
+  "cancer_type": "Ung thư phổi tuyến",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Entrectinib",
+  "recommended_combination": [
+    "Entrectinib đơn trị"
+  ],
+  "drug_effectiveness_info": "ROS1 fusion là driver nhạy với TKI; entrectinib hiệu quả và thấm CNS tốt, phù hợp cho bệnh nhân trẻ."
+},
+{
+  "id": 491,
+  "gene": "CD274",
+  "mutation": "PD-L1 amplification",
+  "clinical_info": "Nam, 14 tuổi; lymphoma trung thất, khối u lớn, tái phát sau hóa trị chuẩn.",
+  "cancer_type": "U lympho tế bào B lớn lan tỏa (DLBCL)",
+  "stage": "Giai đoạn IIIB",
+  "recommended_drug": "Pembrolizumab",
+  "recommended_combination": [
+    "Pembrolizumab",
+    "Brentuximab vedotin (nếu CD30 đồng biểu hiện)"
+  ],
+  "drug_effectiveness_info": "PD-L1 khuếch đại làm tăng trốn tránh miễn dịch; PD-1 inhibitor cho tỷ lệ đáp ứng bền vững ở lymphoma nhi khoa tái phát có biểu hiện PD-L1 cao."
+},
+{
+  "id": 492,
+  "gene": "MSI",
+  "mutation": "Microsatellite instability-high (MSI-H)",
+  "clinical_info": "Nữ, 12 tuổi; u đại tràng tiến triển, tiền sử MMR bất thường.",
+  "cancer_type": "Ung thư đại tràng",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Nivolumab",
+  "recommended_combination": [
+    "Nivolumab đơn trị"
+  ],
+  "drug_effectiveness_info": "MSI-H tạo tải lượng đột biến cao, tăng tính sinh kháng nguyên; PD-1 inhibitor là lựa chọn chuẩn, cho đáp ứng sâu và kéo dài."
+},
+{
+  "id": 493,
+  "gene": "B2M",
+  "mutation": "B2M truncation",
+  "clinical_info": "Nam, 16 tuổi; melanoma niêm mạc hiếm ở trẻ, tiến triển nhanh.",
+  "cancer_type": "Melanoma ác tính",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Ipilimumab + Nivolumab",
+  "recommended_combination": [
+    "Ipilimumab",
+    "Nivolumab"
+  ],
+  "drug_effectiveness_info": "Mất B2M ảnh hưởng trình diện MHC-I; phối hợp CTLA-4 + PD-1 có thể vượt qua kháng đơn trị PD-1 ở một số trường hợp tiến triển."
+},
+{
+  "id": 494,
+  "gene": "CD79B",
+  "mutation": "CD79B activating mutation",
+  "clinical_info": "Nam, 10 tuổi; lymphoma B tái phát sau nhiều phác đồ.",
+  "cancer_type": "U lympho tế bào B lớn lan tỏa (DLBCL)",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Polatuzumab vedotin",
+  "recommended_combination": [
+    "Polatuzumab vedotin",
+    "CAR-T tế bào B (CD19 CAR-T) — liệu pháp cứu vãn"
+  ],
+  "drug_effectiveness_info": "CD79B hoạt hóa tín hiệu BCR; ADC kháng CD79B giúp giảm tải u trước CAR-T, cải thiện khả năng đáp ứng và độ an toàn."
+},
+{
+  "id": 495,
+  "gene": "ALK",
+  "mutation": "ALK F1174L",
+  "clinical_info": "Nữ, 6 tuổi; neuroblastoma nguy cơ cao, kháng hóa trị.",
+  "cancer_type": "Neuroblastoma",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Lorlatinib",
+  "recommended_combination": [
+    "Lorlatinib",
+    "Nivolumab (clinical trial)"
+  ],
+  "drug_effectiveness_info": "ALK F1174L gây hoạt hóa mạnh; ức chế ALK làm giảm tải u và có thể tăng tính sinh miễn dịch, hỗ trợ PD-1 inhibitor trong thử nghiệm nhi khoa."
+},
+{
+  "id": 496,
+  "gene": "H3F3A",
+  "mutation": "H3F3A K27M",
+  "clinical_info": "Nam, 9 tuổi; u cầu não lan tỏa, tiến triển nhanh.",
+  "cancer_type": "Diffuse midline glioma",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Nivolumab",
+  "recommended_combination": [
+    "Nivolumab",
+    "Xạ trị chuẩn"
+  ],
+  "drug_effectiveness_info": "H3K27M tạo vi môi trường miễn dịch ức chế; PD-1 inhibitor đang được nghiên cứu nhằm kéo dài sống còn khi phối hợp xạ trị."
+},
+{
+  "id": 497,
+  "gene": "PDCD1",
+  "mutation": "PDCD1 promoter activation",
+  "clinical_info": "Nữ, 15 tuổi; lymphoma Hodgkin tái phát.",
+  "cancer_type": "U lympho Hodgkin cổ điển",
+  "stage": "Giai đoạn IIIB",
+  "recommended_drug": "Pembrolizumab",
+  "recommended_combination": [
+    "Pembrolizumab đơn trị"
+  ],
+  "drug_effectiveness_info": "Hoạt hóa trục PD-1/PD-L1 là cơ chế trung tâm của Hodgkin; PD-1 inhibitor cho tỷ lệ đáp ứng rất cao ở bệnh nhi tái phát."
+},
+{
+  "id": 498,
+  "gene": "NF1",
+  "mutation": "NF1 truncation",
+  "clinical_info": "Nam, 7 tuổi; u mô mềm ác tính liên quan NF1.",
+  "cancer_type": "Undifferentiated pleomorphic sarcoma",
+  "stage": "Giai đoạn III",
+  "recommended_drug": "Trametinib",
+  "recommended_combination": [
+    "Trametinib",
+    "Nivolumab"
+  ],
+  "drug_effectiveness_info": "Mất NF1 hoạt hóa MAPK; MEK inhibitor làm chậm tăng sinh, phối hợp PD-1 inhibitor nhằm tăng kiểm soát miễn dịch khối u."
+},
+{
+  "id": 499,
+  "gene": "TERT",
+  "mutation": "TERT promoter mutation",
+  "clinical_info": "Nữ, 16 tuổi; u não tiến triển, tái phát sau xạ trị.",
+  "cancer_type": "U nguyên bào thần kinh đệm (GBM)",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Nivolumab",
+  "recommended_combination": [
+    "Nivolumab",
+    "Bevacizumab"
+  ],
+  "drug_effectiveness_info": "TERT promoter liên quan xâm lấn và tái phát; PD-1 inhibitor kết hợp kháng VEGF giúp cải thiện triệu chứng và kiểm soát bệnh ở một số ca."
+},
+{
+  "id": 500,
+  "gene": "MYCN",
+  "mutation": "MYCN amplification",
+  "clinical_info": "Nam, 5 tuổi; neuroblastoma nguy cơ rất cao sau ghép.",
+  "cancer_type": "Neuroblastoma",
+  "stage": "Giai đoạn IV",
+  "recommended_drug": "Dinutuximab",
+  "recommended_combination": [
+    "Dinutuximab (anti-GD2)",
+    "GM-CSF / IL-2 hỗ trợ miễn dịch"
+  ],
+  "drug_effectiveness_info": "MYCN khuếch đại xác định nguy cơ cao; kháng thể anti-GD2 là miễn dịch đích chuẩn giúp cải thiện sống còn ở neuroblastoma nhi khoa."
 }
-
 ]
