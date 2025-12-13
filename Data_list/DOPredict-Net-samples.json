@@ -5906,7 +5906,7 @@
 {
   "id": 500,
   "gene": "MYCN",
-  "mutation": "MYCN amplification",
+  "mutation": "MYC amplification",
   "clinical_info": "Nam, 5 tuổi; neuroblastoma nguy cơ rất cao sau ghép.",
   "cancer_type": "Neuroblastoma",
   "stage": "Giai đoạn IV",
