@@ -274,15 +274,29 @@ document.addEventListener("DOMContentLoaded", () => {
             return `
                 <div class="record-item">
                     <h4>Độ tin cậy ${conf}%</h4>
-                    <p><strong>Gen:</strong> ${escapeHtml(s.gene)} | <strong>Đột biến:</strong> ${escapeHtml(s.mutation)}</p>
-                    <p><strong>Ung thư:</strong> ${escapeHtml(s.cancer_type)} | <strong>Giai đoạn:</strong> ${escapeHtml(s.stage)}</p>
+        
+                    <p><strong>Gen:</strong> ${escapeHtml(s.gene)}
+                       | <strong>Đột biến:</strong> ${escapeHtml(s.mutation)}</p>
+        
+                    <p><strong>Ung thư:</strong> ${escapeHtml(s.cancer_type)}
+                       | <strong>Giai đoạn:</strong> ${escapeHtml(s.stage)}</p>
+        
+                    <p><strong>Lâm sàng:</strong> ${escapeHtml(s.clinical_info || "—")}</p>
+        
                     <p><strong>Thuốc đề xuất:</strong> ${escapeHtml(s.recommended_drug || "—")}</p>
-                    <p><strong>Kết hợp:</strong> ${Array.isArray(s.recommended_combination) ? escapeHtml(s.recommended_combination.join(", ")) : "—"}</p>
+        
+                    <p><strong>Kết hợp:</strong> ${
+                        Array.isArray(s.recommended_combination)
+                            ? escapeHtml(s.recommended_combination.join(", "))
+                            : "—"
+                    }</p>
+        
                     <p><em>${escapeHtml(s.drug_effectiveness_info || "")}</em></p>
-
                 </div>
             `;
         }).join("");
+
+
 
         const overallConfidence = computeConfidence(topN[0].score);
 
@@ -380,5 +394,6 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
 });
+
 
 
