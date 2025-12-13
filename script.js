@@ -278,7 +278,9 @@ document.addEventListener("DOMContentLoaded", () => {
                     <p><strong>Ung thư:</strong> ${escapeHtml(s.cancer_type)} | <strong>Giai đoạn:</strong> ${escapeHtml(s.stage)}</p>
                     <p><strong>Thuốc đề xuất:</strong> ${escapeHtml(s.recommended_drug || "—")}</p>
                     <p><strong>Kết hợp:</strong> ${Array.isArray(s.recommended_combination) ? escapeHtml(s.recommended_combination.join(", ")) : "—"}</p>
-                    <p><em>${escapeHtml(s.drug_effectiveness_info || "")}</em></p>
+                    <p><strong>Lâm sàng (bản ghi):</strong> ${escapeHtml(s.clinical_info || "Không có mô tả")}</p>
+                    <p><em><strong>Hiệu quả thuốc:</strong> ${escapeHtml(s.drug_effectiveness_info || "")}</em></p>
+
                 </div>
             `;
         }).join("");
@@ -379,3 +381,4 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
 });
+
