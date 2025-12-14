@@ -46,8 +46,11 @@ Mỗi ca bệnh được lưu dưới dạng **JSON**, mô tả đầy đủ y�
   ],
   "drug_effectiveness_info": "Đột biến BRCA1 làm suy giảm HRR, tăng nhạy với PARP inhibitor. Kéo dài PFS rõ rệt trong SOLO1. Cần theo dõi thiếu máu, giảm BC, chức năng thận."
 }
+```
 
-### 🧪 Nguyên tắc xây dựng dữ liệu
+---
+
+## 🧪 Nguyên tắc xây dựng dữ liệu
 - Dựa trên y văn ung thư học hiện đại (NCCN, ESMO, FDA approvals)
 - Liên kết đột biến → cơ chế sinh học → đáp ứng thuốc
 - Không chứa dữ liệu bệnh nhân thật
